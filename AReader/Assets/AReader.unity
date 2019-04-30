@@ -1270,6 +1270,73 @@ Prefab:
       propertyPath: m_RaycastTarget
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_textInfo.lineCount
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_enableVertexGradient
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 21888600510537326, guid: ce870294a8a7bbe488abb4dbec32ecf7,
+        type: 2}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_enableExtraPadding
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: checkPaddingRequired
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_wordWrappingRatios
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_lineSpacing
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_overrideHtmlColors
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: ce870294a8a7bbe488abb4dbec32ecf7,
+        type: 2}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114242277342242670, guid: bbb609fbdf7708347af1ff54fbe89299,
+        type: 2}
+      propertyPath: m_fontSize
+      value: 32.95
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114619838964881500, guid: bbb609fbdf7708347af1ff54fbe89299, type: 2}
     - {fileID: 114695182911155598, guid: bbb609fbdf7708347af1ff54fbe89299, type: 2}
