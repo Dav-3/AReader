@@ -1,2 +1,2 @@
-D:\Unity Save Files\AReader\App\AReader\AReader.csproj;x86
-D:\Unity Save Files\AReader\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\GitHub Repositories\AReader\AReader\App\AReader\AReader.csproj;x86
+D:\GitHub Repositories\AReader\AReader\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

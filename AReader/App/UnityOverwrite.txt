@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 AReader.sln: modified
 AReader\App.cs: A1A86D4ED2B28E774DE7134C0C701B2F
-AReader\AReader.csproj: 3A4FD133727FAF2ABB00DEEAF61BC4E4
+AReader\AReader.csproj: 68B573C64193BA167F25040B92F49052
 AReader\AReader.csproj.user: modified
 AReader\Package.appxmanifest: 02E05A14EC25B532BC528E3E82E55E2D
 AReader\project.json: 1D02BC64BAC0D041019673A1C4C51737

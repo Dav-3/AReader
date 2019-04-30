@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <UnityWSASolutionName>AReader</UnityWSASolutionName>
-        <UnityWSASolutionDir>D:\Unity Save Files\AReader\App\</UnityWSASolutionDir>
-        <UnityProjectDir>D:\Unity Save Files\AReader\</UnityProjectDir>
+        <UnityWSASolutionDir>D:\GitHub Repositories\AReader\AReader\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\GitHub Repositories\AReader\AReader\</UnityProjectDir>
         <UnityWSAPlayerDir>D:\Unity 2017.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

@@ -362,8 +362,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\Unity Save Files\AReader\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{8a9f9b29-a48b-4bb8-a0e1-37225da0214f}</Project>
+    <ProjectReference Include="D:\GitHub Repositories\AReader\AReader\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{8e46f654-d3e4-4761-8d49-10f369c193f2}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

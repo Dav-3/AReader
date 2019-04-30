@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>bbb6848a-0249-4950-a06c-80266964cda1</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Unity Save Files\AReader\App\AReader\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\GitHub Repositories\AReader\AReader\App\AReader\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Unity Save Files\AReader\App\AReader\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\GitHub Repositories\AReader\AReader\App\AReader\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Unity Save Files\AReader\App\AReader\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\GitHub Repositories\AReader\AReader\App\AReader\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\bin\x86\Debug\AReader.exe">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\bin\x86\Debug\AReader.exe">
       <PackagePath>entrypoint\AReader.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David Bullock\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="D:\Unity 2017.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Debug\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity 2017.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Debug\UnityPlayer.dll">
@@ -373,88 +373,88 @@
     <AppxPackagedFile Include="D:\Unity 2017.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Debug\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Resource.res">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\PlaneFinding.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\MicStreamSelector.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\MicStreamSelector.dll">
       <PackagePath>MicStreamSelector.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\GpuTiming.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\GpuTiming.dll">
       <PackagePath>GpuTiming.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\SharingClient.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\boot.config">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\globalgamemanagers">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\level0">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\resources.assets">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\level0.resS">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\resources.assets.resS">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
@@ -463,178 +463,178 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\nunit.framework.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\TextMeshPro-2017.3-Runtime.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\TextMeshPro-2017.3-Runtime.dll">
       <PackagePath>TextMeshPro-2017.3-Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.StandardEvents.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\GLTFSerializationUWP.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity Save Files\AReader\App\AReader\bin\x86\Debug\Core\AReader.exe">
+    <AppxPackagedFile Include="D:\GitHub Repositories\AReader\AReader\App\AReader\bin\x86\Debug\Core\AReader.exe">
       <PackagePath>AReader.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
