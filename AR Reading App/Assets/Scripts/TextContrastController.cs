@@ -4,19 +4,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// Improves the contrast of the text against the background
+/// Not used in the HoloLens version
+/// </summary>
 public class TextContrastController : MonoBehaviour
 {
 
     Texture2D currentPhoto;
     Text textUI;
 
-    // Use this for initialization
     void Start()
     {
         textUI = GetComponent<Text>();
+        // register for the photo taken event
         HoloCameraController.Instance.PhotoChanged += NewPhotoTaken;
     }
 
+    /// <summary>
+    /// Called if a new photo was taken
+    /// </summary>
+    /// <param name="sender">The sender of the event</param>
+    /// <param name="e">Event arguments</param>
     private void NewPhotoTaken(object sender, EventArgs e)
     {
         Debug.Log("Photo taken");
@@ -34,6 +43,11 @@ public class TextContrastController : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Calculates the average color of an image
+    /// </summary>
+    /// <param name="tex">The image texture</param>
+    /// <returns>The average color of tex</returns>
     private Color32 AverageColor(Texture2D tex)
     {
         Color32[] pixels = tex.GetPixels32();
@@ -53,6 +67,9 @@ public class TextContrastController : MonoBehaviour
         return res;
     }
 
+    /// <summary>
+    /// Un-registers from the photo taken event
+    /// </summary>
     private void OnDestroy()
     {
         HoloCameraController.Instance.PhotoChanged -= NewPhotoTaken;

@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Container which takes a text entry to build the menu
+/// </summary>
 public class MenuEntry : MonoBehaviour
 {
     [SerializeField] private ApplicationController appController;

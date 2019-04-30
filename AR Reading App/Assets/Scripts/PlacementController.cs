@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Script which was used to test the functionality of the surface magnetism solver
+/// </summary>
 public class PlacementController : MonoBehaviour
 {
     public GameObject target;

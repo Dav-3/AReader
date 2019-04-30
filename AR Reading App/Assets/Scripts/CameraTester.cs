@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Test script which was used to get the camera image of the HoloLens
+/// Not used in the final prototype
+/// </summary>
 public class CameraTester : MonoBehaviour
 {
 

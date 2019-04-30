@@ -6,6 +6,10 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.XR.WSA.WebCam;
 
+/// <summary>
+/// Script for fetching the camera image periodically
+/// This was used to determine the brightness of the viewport
+/// </summary>
 public class HoloCameraController : Singleton<HoloCameraController>
 {
     public float intervalInSeconds = 10f;
